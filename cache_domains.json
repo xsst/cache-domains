@@ -93,11 +93,6 @@
 			"domain_files": ["square.txt"]
 		},
 		{
-			"name": "steam",
-			"description": "CDN for steam platform",
-			"domain_files": ["steam.txt"]
-		},
-		{
 			"name": "uplay",
 			"description": "CDN for uplay downloader",
 			"domain_files": ["uplay.txt"]
